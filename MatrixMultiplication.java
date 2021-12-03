@@ -26,7 +26,7 @@ public class MatrixMultiplication {
      System.out.print(c[i][j]+" ");  //printing matrix element  
      
     }//end of j loop  
-    System.out.println();//new line    
+     System.out.println();//new line    
    }    
  } 
 } 
