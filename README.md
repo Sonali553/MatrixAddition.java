@@ -1,2 +1,2 @@
 # MatrixAddition.java
-Addition of two single dimensional arrays
+Addition and Multiplication of two dimensional arrays
